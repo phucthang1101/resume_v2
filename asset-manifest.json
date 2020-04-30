@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/resume_v2/static/css/main.51ea8c6c.chunk.css",
+    "main.js": "/resume_v2/static/js/main.83292255.chunk.js",
+    "main.js.map": "/resume_v2/static/js/main.83292255.chunk.js.map",
+    "runtime-main.js": "/resume_v2/static/js/runtime-main.d21a40b8.js",
+    "runtime-main.js.map": "/resume_v2/static/js/runtime-main.d21a40b8.js.map",
+    "static/js/2.ec32db9a.chunk.js": "/resume_v2/static/js/2.ec32db9a.chunk.js",
+    "static/js/2.ec32db9a.chunk.js.map": "/resume_v2/static/js/2.ec32db9a.chunk.js.map",
+    "index.html": "/resume_v2/index.html",
+    "precache-manifest.9f02eafb6a63b56a211bc19f6bf2c921.js": "/resume_v2/precache-manifest.9f02eafb6a63b56a211bc19f6bf2c921.js",
+    "service-worker.js": "/resume_v2/service-worker.js",
+    "static/css/main.51ea8c6c.chunk.css.map": "/resume_v2/static/css/main.51ea8c6c.chunk.css.map",
+    "static/js/2.ec32db9a.chunk.js.LICENSE.txt": "/resume_v2/static/js/2.ec32db9a.chunk.js.LICENSE.txt",
+    "static/media/Experience.css": "/resume_v2/static/media/cd-arrow.f81f938a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d21a40b8.js",
+    "static/js/2.ec32db9a.chunk.js",
+    "static/css/main.51ea8c6c.chunk.css",
+    "static/js/main.83292255.chunk.js"
+  ]
+}

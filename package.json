@@ -1,0 +1,54 @@
+{
+  "homepage": "https://phucthang1101.github.io/resume_v2",
+  "name": "portfolio_v2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/core": "^10.0.28",
+    "@emotion/styled": "^10.0.27",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "jquery": "^3.5.0",
+    "jquery-animated-headlines": "^1.0.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-isotope": "^1.0.7",
+    "react-particles-js": "^3.0.3",
+    "react-reveal": "^1.2.2",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.1",
+    "react-scrollspy": "^3.4.2",
+    "react-transition-group": "^4.3.0",
+    "styled-components": "^5.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@iconify/icons-bx": "^1.0.3",
+    "@iconify/icons-zmdi": "^1.0.3",
+    "@iconify/react": "^1.1.3",
+    "gh-pages": "^2.2.0"
+  }
+}
